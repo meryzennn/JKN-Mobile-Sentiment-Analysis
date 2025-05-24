@@ -1,10 +1,10 @@
-Here's a comprehensive `README.md` in English for your GitHub repository, complete with explanations and a touch of flair\!
+
 
 -----
 
 # sentiment\_analysis\_of\_jkn\_mobile\_app\_reviews\_using\_svm\_knn\_and\_naive\_bayes
 
-Ever wondered what users *really* think about the JKN Mobile app? 🤔 This Google Colab project dives deep into user reviews, performing **sentiment analysis** to uncover valuable insights\! We're putting three popular machine learning algorithms to the test: **Support Vector Machine (SVM)**, **K-Nearest Neighbors (KNN)**, and **Naive Bayes**, to see which one reigns supreme in classifying review sentiments. 👑
+Ever wondered what users *really* think about the JKN Mobile app? 🤔 This Google Colab project dives deep into user reviews, performing **sentiment analysis** to uncover valuable insights\! We're putting three popular machine learning algorithms to the test: **Support Vector Machine (SVM)**, **K-Nearest Neighbors (KNN)**, and **Naive Bayes**, to see which one reigns supreme in classifying review sentiments.
 
 -----
 
