@@ -111,6 +111,6 @@ This project is open-source and available under the [MIT License](https://openso
 
 Questions, feedback, or just want to chat about sentiment analysis? Don't hesitate to reach out\!
 
-  * **GitHub Issues:** [Create an issue right here\!](https://www.google.com/search?q=https://github.com/meryzennn/sentiment_analysis_of_jkn_mobile_app_reviews_using_svm_knn_and_naive_bayes/issues](https://github.com/meryzennn/JKN-Mobile-Sentiment-Analysis/issues) 🐛
+* **GitHub Issues:** [Create an issue right here\!]([https://www.google.com/search?q=https://github.com/meryzennn/sentiment_analysis_of_jkn_mobile_app_reviews_using_svm_knn_and_naive_bayes/issues](https://github.com/meryzennn/JKN-Mobile-Sentiment-Analysis/issues)) 🐛
 
 -----
